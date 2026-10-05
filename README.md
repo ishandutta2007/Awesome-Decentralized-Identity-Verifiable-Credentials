@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Decentralized-Identity-Verifiable-Credentials?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -52,9 +52,9 @@ The table below lists key SaaS identity providers sorted in descending order by 
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-Below is a curated collection of production-grade open-source libraries, SDKs, and platforms for Decentralized Identity and Verifiable Credentials, sorted by GitHub star counts in descending order:
+Below is a curated collection of production-grade open-source libraries, SDKs, and platforms for Decentralized Identity and Verifiable Credentials, sorted by GitHub Stars_Counts in descending order:
 
-| Open-Source Project 📦 | Description & Capabilities 💡 | GitHub Stars ⭐ |
+| Open-Source Project 📦 | Description & Capabilities 💡 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- |
 | **[hyperledger/aries](https://github.com/hyperledger/aries)** 🏛️ | Infrastructure for blockchain-rooted, peer-to-peer decentralized identity, credential exchange (Issue Credential / Present Proof), and secure messaging protocols. | [![Stars](https://img.shields.io/github/stars/hyperledger/aries?style=social&color=white)](https://github.com/hyperledger/aries/stargazers) |
 | **[uport-project/veramo](https://github.com/uport-project/veramo)** 🦁 | Modular JavaScript/TypeScript framework for verifiable data, W3C DIDs, and Verifiable Credentials. Successor to uPort, supporting KMS and multi-DID drivers. | [![Stars](https://img.shields.io/github/stars/uport-project/veramo?style=social&color=white)](https://github.com/uport-project/veramo/stargazers) |
